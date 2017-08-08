@@ -1,0 +1,19 @@
+.border {
+	padding: 5px 15px;
+	padding-right: 40px;
+	border: 1px solid black;
+}
+
+.location { 
+	margin: 15px;
+	display: inline-block;
+	border: 2px solid green;
+	padding: 15px;
+}
+
+ul { 
+	overflow: scroll;
+	height: 400px;
+	border: 2px solid blue;
+	display: inline-block;
+}
